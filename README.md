@@ -1,5 +1,5 @@
 # Brian Tam's Portfolio Website
 
-## A Single Page Website with Bootstrap 4.
+### A Single Page Website with Bootstrap 4.
 
-* `briantam23.github.io/portfolio`
+[Link to Portfolio](https://briantam23.github.io/portfolio)
