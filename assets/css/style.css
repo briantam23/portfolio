@@ -4,3 +4,10 @@ html {
 #top-content {
     color: white;
 }
+
+.navbar-brand {
+    width: 136px;
+    background: url(../img/logo.png) left /* center */ /* no-repeat */;
+    /* border: 0; */
+    text-indent: -99999px;
+}
