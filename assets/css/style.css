@@ -11,3 +11,44 @@ html {
     /* border: 0; */
     text-indent: -99999px;
 }
+
+/***** Footer *****/
+
+footer {
+	padding: 40px 0 0 0;
+	background: black;
+	color: #aaa;
+	text-align: middle;
+}
+
+.footer-icons {
+	text-align: middle;
+}
+
+.footer-icons a {
+	margin: 0 6px;
+    font-size: 32px;
+    color: #aaa;
+}
+.footer-icons a:hover, .footer-icons a:focus { 
+	color: #eee; 
+}
+
+.footer-bottom {
+	padding-bottom: 25px;
+	text-align: center;
+}
+
+.footer-bottom a {
+	font-size: 32px;
+    color: #666;
+    line-height: 40px;
+}
+
+.footer-bottom a:hover, .footer-bottom a:focus { 
+	color: #888; 
+}
+
+.footer-legal {
+	font-size: 10px;
+}
